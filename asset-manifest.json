@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TypeScriptProject/static/css/main.c3076960.css",
+    "main.js": "/TypeScriptProject/static/js/main.5f5db9eb.js",
+    "index.html": "/TypeScriptProject/index.html",
+    "main.c3076960.css.map": "/TypeScriptProject/static/css/main.c3076960.css.map",
+    "main.5f5db9eb.js.map": "/TypeScriptProject/static/js/main.5f5db9eb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c3076960.css",
+    "static/js/main.5f5db9eb.js"
+  ]
+}
